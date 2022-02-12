@@ -9,4 +9,4 @@ class User
 
 $sebusObject = new User();
 
-print_r($sebusObject)
+print_r($sebusObject);
