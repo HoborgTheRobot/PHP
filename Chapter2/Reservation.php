@@ -17,6 +17,6 @@ class Reservation
 
     private function refundGuest()
     {
-        echo 'Refunding ' . $this->guest . '<br>';
+        echo "Refunding " . $this->guest . '<br>';
     }
 }
